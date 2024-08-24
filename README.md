@@ -27,7 +27,7 @@ Alguns conhecimentos que foram abordados no curso são fundamentais para concucl
 ✔ O resultado deve ser exibido na tela.
 
 
-### As "chaves" de criptografia que utilizaremos são:
+### As "chaves" de criptografia utilizadas foram :
 A letra "e" é convertida para "enter"
 A letra "i" é convertida para "imes"
 A letra "a" é convertida para "ai"
