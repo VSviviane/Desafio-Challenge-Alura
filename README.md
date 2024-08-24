@@ -2,10 +2,10 @@
 Este projeto é um criptador e descrepitador de  texto. Ele faz parte da formação inicinate em programaçao da alura da trilha ONE 7 - Oracle Next Education 
 
 ### Objetivo: 
-Utilizar os conhecimentos iniciais do  curso nas linguages de programação javazcript; CSS; HTML e alocação do projeto no repositório do GitHub. O projeto faz parte da conclução da segunda fase do curso trilha ONE 7 - Oracle Next Education. 
+Utilizar os conhecimentos iniciais do  curso nas linguages de programação javazcript; CSS; HTML e alocação do projeto no repositório do GitHub. O projeto faz parte da conclusão da segunda fase do curso trilha ONE 7 - Oracle Next Education. 
 
 ### Informações importantes sobre projeto.
-Alguns conhecimentos que foram abordados no curso são fundamentais para concuclão do projeto, são eles :  
+Alguns conhecimentos que foram abordados no curso são fundamentais para conclusão do projeto, são eles :  
 
 1.Lógica de programação com JavaScript, funções e listas. 
 
